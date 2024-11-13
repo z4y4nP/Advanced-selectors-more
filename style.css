@@ -1,0 +1,12 @@
+a:hover {
+    font-weight: bolder;color: red;
+}
+li:nth-child(3) {
+    color: aquamarine;text-indent: 10px;
+}
+div:not(.class1){
+    text-transform: uppercase;
+}
+div{
+    color: blue;font-size: x-large;
+}
